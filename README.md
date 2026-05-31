@@ -14,3 +14,7 @@ An AI-powered Resume Builder developed with Python, Tkinter, Gemini AI, and Repo
 - Tkinter
 - Google Gemini AI
 - ReportLab
+
+# AI Resume Builder
+
+![AI Resume Builder Screenshot](Output.png)
